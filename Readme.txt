@@ -1,0 +1,1 @@
+A client application who communicates with a server using HTTP protocol
